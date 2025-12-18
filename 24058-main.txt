@@ -1,2 +1,2 @@
-Initial version of the project
 Addition branch modification
+Multiplication branch modification
